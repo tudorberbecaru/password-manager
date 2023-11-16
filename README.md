@@ -19,7 +19,7 @@ This is a simple GUI-based Password Manager application built using Python and t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/password-manager.git
+    git clone https://github.com/tudorberbecaru/password-manager.git
     cd password-manager
     ```
 
