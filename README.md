@@ -31,4 +31,13 @@ This is a simple GUI-based Password Manager application built using Python and t
 
 3. Use the app to generate passwords, save website details, and retrieve passwords as needed.
 
+## Screenshots
+
+![Model](https://github.com/tudorberbecaru/password-manager/blob/master/.github/Screenshot.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 Feel free to contribute, report issues, or suggest improvements!
