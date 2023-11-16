@@ -33,7 +33,7 @@ This is a simple GUI-based Password Manager application built using Python and t
 
 ## Screenshots
 
-![Model](https://github.com/tudorberbecaru/password-manager/blob/master/.github/Screenshot.png)
+![screenshot](https://github.com/tudorberbecaru/password-manager/blob/master/.github/Screenshot.png)
 
 ## License
 
